@@ -10,6 +10,6 @@ You can fly in built up aread, but must always fly safely
 You can fly 150m away from built up areas, or busy places
 
 
-## Contributing
+# Contributing
 
-Please help to build this page by submitting pull requests! 
+Please help to build this page by submitting pull requests!
